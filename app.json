@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "ios": {
+      "bundleIdentifier": "com.zion.cardbuddy",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.zion.cardbuddy",
+      "versionCode": 1
+    },
+    "name": "CardBuddy",
+    "slug": "card_tracker",
+    "extra": {
+      "eas": {
+        "projectId": "f7560dfe-bb03-4baf-abba-f9dce6144cc5"
+      }
+    }
+  }
+}
