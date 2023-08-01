@@ -4,10 +4,10 @@ a credit card app that maximizes cashbacks while minimizing headaches
 
 ## Sample Screenshots
 
-![Showcase Image 1](https://github.com/ipopzion/cardbuddy/tree/master/showcase/showcase1.jpg)
-![Showcase Image 2](https://github.com/ipopzion/cardbuddy/tree/master/showcase/showcase2.jpg)
-![Showcase Image 3](https://github.com/ipopzion/cardbuddy/tree/master/showcase/showcase3.jpg)
-![Showcase Image 4](https://github.com/ipopzion/cardbuddy/tree/master/showcase/showcase4.jpg)
+![Showcase Image 1](https://github.com/ipopzion/cardbuddy/blob/master/showcase/showcase1.jpg?raw=true)
+![Showcase Image 2](https://github.com/ipopzion/cardbuddy/blob/master/showcase/showcase2.jpg?raw=true)
+![Showcase Image 3](https://github.com/ipopzion/cardbuddy/blob/master/showcase/showcase3.jpg?raw=true)
+![Showcase Image 4](https://github.com/ipopzion/cardbuddy/blob/master/showcase/showcase4.jpg?raw=true)
 
 ## How can I get the app?
 
